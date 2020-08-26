@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-nunit-test-reporter",
+  "version": "1.0.0",
+  "description": "Custom reporter for Jasmine testing framework. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adamant129/jasmine-nunit-test-reporter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adamant129/jasmine-nunit-test-reporter/issues"
+  },
+  "homepage": "https://github.com/Adamant129/jasmine-nunit-test-reporter#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.1"
+  }
+}
